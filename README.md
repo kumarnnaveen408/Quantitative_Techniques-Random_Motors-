@@ -9,11 +9,11 @@ The chief engineer has built 20 prototypes of each of the two models to check if
 
 Additionally, the chief engineer reported that the cost of manufacturing the Rocinante36 model would be ₹6 lakh per car and that of the Marengo32 model would be ₹33 lakh per car, including all the overhead expenses. Given the business scenario, you need to invest the total manufacturing cost upfront. The manufacturing cost will be recovered slowly by the next financial year as sales start happening. These details are summarised in the table given below.
 
-Specifications	          Rocinante36	        Marengo32
-Price	                     ₹7 lakh	           ₹41 lakh
-Manufacturing cost	       ₹6 lakh	           ₹33 lakh
-Mileage	                   22 km/litre	       15 km/litre
-Top speed	                 140 km/hr	         210 km/hr
+-	                       Rocinante36	        Marengo32
+-Price	                   ₹7 lakh	           ₹41 lakh
+-Manufacturing cost	       ₹6 lakh	           ₹33 lakh
+-Mileage	               22 km/litre	       15 km/litre
+-Top speed	               140 km/hr	       210 km/hr
 
 Currently, the company has enough cash reserves to invest in only one model. Therefore, as the Lead Business Analyst, you need to carefully choose the right model and decide the number of cars that you want to produce. Since you believe in making data-based decisions, you ask your team to provide you with the sales data of all the past models released under the brands Rocinante and Marengo. The sales data is provided in the file titled Data Exhibit 2.
 
