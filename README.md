@@ -20,10 +20,10 @@ Currently, the company has enough cash reserves to invest in only one model. The
 - <a href="https://github.com/kumarnnaveen408/Quantitative_Techniques-Random_Motors-/blob/main/Exhibit%2B2.xlsx">Exhibit2</a>
 The data in Exhibit 1 and Exhibit 2 will be used to predict the sales for Rocinante36 and Marengo32 and to make decisions regarding which model will generate maximum revenue for the company.
 ## Questions
-Q-1) Formulate the null and alternative hypotheses for mileage and top speed to check whether the new models are performing as per the desired design specifications.
-Q-2) In order to comment on whether or not the design specifications are being matched, perform relevant hypothesis tests add your conclusions? Assume that you are performing the tests at a 95% confidence level.
-Q-3) You have already learnt about the possible errors that might result from hypothesis tests. Which type of error is more expensive for Random Motors, and why? Assume that you need to refund the money to all your customers if your cars do not deliver the promised specifications.
-Q-4) Develop a regression equation for each model at a 95% confidence level. Using the regression equation, predict the sales of the two models. State the hypothesis assumption for the overall test and individual variables.
-Q-5) Based on the sales prediction, calculate the overall projected profit for the Rocinante36 and Marengo32 models, respectively?
-Q-6) Your company wishes to invest only in the model that can generate high overall profits. In which of the two models, Rocinante36 and Marengo32, should your company invest?
+- Formulate the null and alternative hypotheses for mileage and top speed to check whether the new models are performing as per the desired design specifications.
+- In order to comment on whether or not the design specifications are being matched, perform relevant hypothesis tests add your conclusions? Assume that you are performing the tests at a 95% confidence level.
+- You have already learnt about the possible errors that might result from hypothesis tests. Which type of error is more expensive for Random Motors, and why? Assume that you need to refund the money to all your customers if your cars do not deliver the promised specifications.
+- Develop a regression equation for each model at a 95% confidence level. Using the regression equation, predict the sales of the two models. State the hypothesis assumption for the overall test and individual variables.
+- Based on the sales prediction, calculate the overall projected profit for the Rocinante36 and Marengo32 models, respectively?
+- Your company wishes to invest only in the model that can generate high overall profits. In which of the two models, Rocinante36 and Marengo32, should your company invest?
 
