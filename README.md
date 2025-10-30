@@ -26,17 +26,22 @@ The data in Exhibit 1 and Exhibit 2 will be used to predict the sales for Rocina
 ## Solutions
 - Rocinante 36	
 														
-H0 :	Mileage  >= 22 km/litre									
+H0 :	Mileage  >= 22 km/litre	
+
 Ha  :	Milage < 22 km/litre											
 																						
-H0  :	Top speed >= 140 km/hr						      
+H0  :	Top speed >= 140 km/hr	
+
 Ha  :	Top speed < 140 km/hr
 
 Marengo 32
-H0 :	Mileage  >= 15 km/litre									
+
+H0 :	Mileage  >= 15 km/litre
+
 Ha  :	Milage < 15 km/litre
 
-H0  :	Top speed >= 210 km/hr						      
+H0  :	Top speed >= 210 km/hr	
+
 Ha  :	Top speed < 210 km/hr
 - At α = 0.05, reject the null for Rocinante 36 on mileage and fail to reject it on top speed; conclude there is sufficient evidence that its mileage does not meet the target, while its top speed does.​ 
 At α = 0.05, fail to reject the null for Marengo 32 on both tests; conclude there is not sufficient evidence that its mileage or top speed deviates from the target.
