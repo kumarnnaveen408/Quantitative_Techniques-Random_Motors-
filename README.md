@@ -28,7 +28,8 @@ The data in Exhibit 1 and Exhibit 2 will be used to predict the sales for Rocina
 														
 H0 :	Mileage  >= 22 km/litre	
 
-Ha  :	Milage < 22 km/litre											
+Ha  :	Milage < 22 km/litre
+
 																						
 H0  :	Top speed >= 140 km/hr	
 
@@ -39,6 +40,7 @@ Marengo 32
 H0 :	Mileage  >= 15 km/litre
 
 Ha  :	Milage < 15 km/litre
+
 
 H0  :	Top speed >= 210 km/hr	
 
