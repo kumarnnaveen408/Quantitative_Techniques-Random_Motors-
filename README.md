@@ -8,4 +8,23 @@ The chief engineer has built 20 prototypes of each of the two models to check if
 ## Dataset used
 - <a href="https://github.com/kumarnnaveen408/Quantitative_Techniques-Random_Motors-/blob/main/Exhibit%2B1%20(1).xlsx">Exhibit1</a>
 
+Additionally, the chief engineer reported that the cost of manufacturing the Rocinante36 model would be ₹6 lakh per car and that of the Marengo32 model would be ₹33 lakh per car, including all the overhead expenses. Given the business scenario, you need to invest the total manufacturing cost upfront. The manufacturing cost will be recovered slowly by the next financial year as sales start happening. These details are summarised in the table given below.
+
+Specifications	          Rocinante36	        Marengo32
+Price	                     ₹7 lakh	           ₹41 lakh
+Manufacturing cost	       ₹6 lakh	           ₹33 lakh
+Mileage	                   22 km/litre	       15 km/litre
+Top speed	                 140 km/hr	         210 km/hr
+
+Currently, the company has enough cash reserves to invest in only one model. Therefore, as the Lead Business Analyst, you need to carefully choose the right model and decide the number of cars that you want to produce. Since you believe in making data-based decisions, you ask your team to provide you with the sales data of all the past models released under the brands Rocinante and Marengo. The sales data is provided in the file titled Data Exhibit 2.
+
+- <a href="https://github.com/kumarnnaveen408/Quantitative_Techniques-Random_Motors-/blob/main/Exhibit%2B2.xlsx">Exhibit2</a>
+The data in Exhibit 1 and Exhibit 2 will be used to predict the sales for Rocinante36 and Marengo32 and to make decisions regarding which model will generate maximum revenue for the company.
+## Questions
+Q-1) Formulate the null and alternative hypotheses for mileage and top speed to check whether the new models are performing as per the desired design specifications.
+Q-2) In order to comment on whether or not the design specifications are being matched, perform relevant hypothesis tests add your conclusions? Assume that you are performing the tests at a 95% confidence level.
+Q-3) You have already learnt about the possible errors that might result from hypothesis tests. Which type of error is more expensive for Random Motors, and why? Assume that you need to refund the money to all your customers if your cars do not deliver the promised specifications.
+Q-4) Develop a regression equation for each model at a 95% confidence level. Using the regression equation, predict the sales of the two models. State the hypothesis assumption for the overall test and individual variables.
+Q-5) Based on the sales prediction, calculate the overall projected profit for the Rocinante36 and Marengo32 models, respectively?
+Q-6) Your company wishes to invest only in the model that can generate high overall profits. In which of the two models, Rocinante36 and Marengo32, should your company invest?
 
