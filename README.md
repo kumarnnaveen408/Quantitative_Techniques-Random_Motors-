@@ -28,6 +28,5 @@ The data in Exhibit 1 and Exhibit 2 will be used to predict the sales for Rocina
 - Your company wishes to invest only in the model that can generate high overall profits. In which of the two models, Rocinante36 and Marengo32, should your company invest?
 
 ## Solutions
-### Hypothesis Formulation
-- "https://github.com/kumarnnaveen408/Quantitative_Techniques-Random_Motors-/blob/main/Screenshot%20(3).png"
+- <a href="https://github.com/kumarnnaveen408/Quantitative_Techniques-Random_Motors-/blob/main/Screenshot%20(3).png">Hypothesis_formulation</a>
 - 
