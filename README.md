@@ -7,14 +7,9 @@ Marengo32 is priced at ₹41 lakh and has been designed to deliver a mileage of 
 The chief engineer has built 20 prototypes of each of the two models to check if the cars are performing as per the desired specifications. If the cars are performing better than expected, then the engineer wants to revise the specifications. However, if they are performing worse than expected, then it is an indication that more investment is needed in the design to improve their performance. The test drive results for the 20 prototypes of each of the two models are provided in the file titled Data Exhibit 1. During the test, the mileage and the top speed is recorded for each of the prototypes. The data will be used for performing hypothesis testing for the claims made on the specifications.
 - <a href="https://github.com/kumarnnaveen408/Quantitative_Techniques-Random_Motors-/blob/main/Exhibit%2B1%20(1).xlsx">Exhibit1</a>
 
-Additionally, the chief engineer reported that the cost of manufacturing the Rocinante36 model would be ₹6 lakh per car and that of the Marengo32 model would be ₹33 lakh per car, including all the overhead expenses. Given the business scenario, you need to invest the total manufacturing cost upfront. The manufacturing cost will be recovered slowly by the next financial year as sales start happening. These details are summarised in the table given below.
-
--	                       Rocinante36	        Marengo32
--Price	                   ₹7 lakh	           ₹41 lakh
--Manufacturing cost	       ₹6 lakh	           ₹33 lakh
--Mileage	               22 km/litre	       15 km/litre
--Top speed	               140 km/hr	       210 km/hr
-
+Additionally, the chief engineer reported that the cost of manufacturing the Rocinante36 model would be ₹6 lakh per car and that of the Marengo32 model would be ₹33 lakh per car, including all the overhead expenses. Given the business scenario, you need to invest the total manufacturing cost upfront. The manufacturing cost will be recovered slowly by the next financial year as sales start happening. These details are summarised below,
+- Rocinante36(Price - 7 lakh, Manufacturing cost - 6 lakh, Mileage - 22 km/ltr, Top speed - 140 km/hr)
+- Marengo32(Price - 41 lakh, Manufacturing cost - 33 lakh, Mileage - 15 km/ltr, Top speed - 210 km/hr)
 Currently, the company has enough cash reserves to invest in only one model. Therefore, as the Lead Business Analyst, you need to carefully choose the right model and decide the number of cars that you want to produce. Since you believe in making data-based decisions, you ask your team to provide you with the sales data of all the past models released under the brands Rocinante and Marengo. The sales data is provided in the file titled Data Exhibit 2.
 
 - <a href="https://github.com/kumarnnaveen408/Quantitative_Techniques-Random_Motors-/blob/main/Exhibit%2B2.xlsx">Exhibit2</a>
