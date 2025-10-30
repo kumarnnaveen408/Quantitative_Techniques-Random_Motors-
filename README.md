@@ -53,7 +53,7 @@ At α = 0.05, fail to reject the null for Marengo 32 on both tests; conclude the
 			
   Sales_Marengo_z:	0.21		
   Projected Sales for Marengo 32:	25.78	  ≈   26 thousand
-- Profit for Rocinante 36 :			225*1 = 22500 million
+- Profit for Rocinante 36 :			225*1 = 22500 million, 
   Profit for Marengo 32 :			  26*8 = 20800  million
 - Given the higher projected profit, Random Motors should prioritize investment in Rocinante 36. However, the advertised mileage of 22 km/l was not substantiated by hypothesis testing; the company should either optimize the powertrain to reliably achieve this target or revise the claim to a statistically supported figure (e.g., 21 km/l) based on validated test results.
 
